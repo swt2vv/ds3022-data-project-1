@@ -1,5 +1,7 @@
 # DS3022 - Data Project 1 (Fall 2025)
 
+Repo url: https://github.com/swt2vv/ds3022-data-project-1
+
 This project loads NYC taxi trip data, cleans it, adds emissions and time-based features, and analyzes CO2 output for yellow and green taxis in 2024.
 
 ## Project structure
